@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# Entorno virtual
+venv/
+env/
+.venv/
+
+# Variables de entorno — NUNCA subir keys
+.env
+*.env
+secrets.py
+
+# macOS
+.DS_Store
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+ExecuteTradesPares.py
