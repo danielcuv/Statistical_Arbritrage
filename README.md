@@ -169,4 +169,4 @@ El rendimiento pasado no garantiza resultados futuros.
 Proyecto parte de una serie progresiva:
 1. ML Predictor con Random Forest → [ML_PredictMarket](https://github.com/danielcuv/ML_PredictMarket)
 2. **Statistical Arbitrage (este repo)**
-3. Momentum / Trend Following ← próximo
+
